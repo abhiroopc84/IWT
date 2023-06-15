@@ -29,7 +29,7 @@ function login() {
 function goFurther() {
   if (document.getElementById("chkAgree").checked == true) {
     document.getElementById("btnSubmit").style =
-      "background: linear-gradient(to right, #FA4B37, #DF2771);";
+      "background: linear-gradient(to right, #06bbcc, #0083B0);";
   } else {
     document.getElementById("btnSubmit").style = "background: lightgray;";
   }
