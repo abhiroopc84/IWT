@@ -1,25 +1,11 @@
-## LearnEd (E-learning Website)
+## Weloki (E-learning Website)
 An educational website for students and programmers 😊😊😊  
 
-![](pcView.png)
 
-Try this out::  
-https://roshan9419.github.io/LearnEd_E-learning_Website/
 
-Our Educational Website would provide all the education related stuffs:  
-Notes, Sample Papers, Online Video Lectures and courses to crack competitive  
-exams like JEE-Main, JEE-Advanced, GATE, etc. Students can clear their doubts  
-by sending their questions to our website. We have added Quizzes for Students  
-who are willing to solve problems on different topics. We have also added  
-Interview questions for students who are preparing for placements.  
-  
-✔ We have made this website as responsive website so, students or users can  
-   easily access our website from  any device.  
-✔ Quiz Section is an interesting feature for students which provide them with  
-   lots of questions. They can view their scores easily and solutions of every questions.  
-✔ Projects – in this I have added a project section where students from schools and  
-   colleges can get projects for final year and for Class 12th Board Projects.  
-   
-It is completely responsive website, to provide smooth experience...😎  
+Our educational platform offers an extensive array of academic resources, encompassing comprehensive notes, exemplar papers, online video lectures, and specialized courses tailored to equip students with the necessary skills to excel in highly competitive examinations such as JEE-Main, JEE-Advanced, GATE, and more. To further enhance the learning experience, we provide a platform for students to submit their inquiries, enabling them to resolve any uncertainties they may have. Additionally, we have incorporated interactive quizzes, covering a wide range of topics, designed to challenge and stimulate students' problem-solving abilities. Furthermore, we have curated a collection of interview questions to aid students in their preparation for job placements.
 
-If you like my project, give it a star  😁😁😁
+To ensure accessibility and convenience for all users, our website has been meticulously crafted to be highly responsive, allowing seamless access from any device. The quiz section, an engaging feature for students, offers an abundance of thought-provoking questions. Students can effortlessly monitor their progress and access detailed solutions for each question. Furthermore, we have dedicated a section specifically for projects, catering to both secondary and tertiary level students seeking captivating and practical project ideas for their final year or Class 12th board assignments.
+
+With an unwavering commitment to providing a frictionless user experience, our website has been designed to be fully responsive, guaranteeing an optimal browsing experience for all users.
+
