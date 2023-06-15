@@ -104,9 +104,8 @@ body {
 	background: transparent;
 	color: rgba(0,0,0);
 }
-::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+::placeholder { 
 	color: rgba(0,0,0,0.7);
-	/*opacity: 1;  Firefox */
 }
 #register .input-field {
 	color: rgba(0,0,0,0.8);
@@ -191,7 +190,6 @@ span
 	border: 1px solid lightgray;
 	cursor: pointer;
 	outline: none;
-	/*border-radius: 10px;*/
 	background: #fff3;
 }
 .connect:hover {
