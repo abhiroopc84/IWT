@@ -19,7 +19,6 @@ body {
 
 header {
 	height: 90vh;
-	/* background: #000; */
 }
 .black {
 	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
@@ -65,9 +64,7 @@ nav ul li a:hover {
 .srch {
 	padding: 2px 10px;
 	display: flex;
-	/* align-items: center; */
 	justify-content: center;
-	/* background: #0066ff; */
 	border: 1px solid;
 	border-radius: 20px;
 }
@@ -76,7 +73,6 @@ nav ul li a:hover {
 	cursor: pointer;
 }
 .srch .search {
-	/* padding: 2px 10px; */
 	outline: none;
 	border: none;
 	background: transparent;
@@ -120,11 +116,7 @@ a, button {
 	align-items: center;
 	justify-content: space-around;
 }
-/* html,
-body {
-	margin: 0;
-	padding: 0;
-} */
+
 
 
 
@@ -198,7 +190,6 @@ img:nth-child(6) {
 .quote .play {
 	margin-top: 20px;
 	display: flex;
-	/* justify-content: center; */
 	align-items: center;
 }
 .quote .play img {
@@ -239,16 +230,12 @@ img:nth-child(6) {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	/* background: #06bbcc; */
 }
 .side-menu ul li {
 	list-style: none;
-	/* background: #009900; */
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	/* border-bottom: 1px solid #fff; */
-	/* padding: 10px 0px; */
 }
 .side-menu ul li:hover a{
 	background: #fff;
@@ -258,7 +245,6 @@ img:nth-child(6) {
 	color: #FFF;
 	width: 100%;
 	font-size: 1em;
-	/* background: #2E3D49; */
 	text-decoration: none;
 	padding: 15px 0px;
 }
@@ -297,7 +283,6 @@ img:nth-child(6) {
 }
 .diffSection {
 	width: 100%;
-	/*position: relative;*/
 	justify-content: center;
 	align-items: center;
 }
@@ -550,7 +535,6 @@ img:nth-child(6) {
 }
 
 /*Service Section*/
-/*Service Section*/
 .service-swipe {
 	display: flex;
 	flex-wrap: wrap;
@@ -689,7 +673,6 @@ form textarea {
 	justify-content: space-around;
 }
 .rev-container .rev-card {
-	/*overflow: hidden;*/
 	width: 550px;
 	height: 240px;
 	margin-bottom: 40px;
@@ -942,8 +925,6 @@ footer .btn:hover {
 	nav {
 		padding-bottom: 20px;
 		border-bottom: 1px solid #0005;
-		/* position: fixed; */
-		/* top: 0; */
 	}
 	.quote p, .quote h5, .play {
 		justify-content: center;
@@ -969,7 +950,6 @@ footer .btn:hover {
 	.svg-image img {
 		width: 90%;
 		margin: 20px;
-		/* align-self: center; */
 	}
 }
 
